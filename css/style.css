@@ -106,6 +106,7 @@ button {
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
   margin-bottom: 2rem;
+  gap: 2rem;
 }
 
 h2{
@@ -132,7 +133,7 @@ h2{
   gap: 2rem;
 }
 
-.flavours article{
+.flavours article {
   text-align: center;
   background-color: #f4f4f4;
 }
